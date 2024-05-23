@@ -1,0 +1,19 @@
+--------------------------------------------------------------ติดตั้ง------------------------------------------------------------------
+
+npm install express
+
+npm install body-parser
+
+npm install cookie-parser
+
+npm install express-session
+
+npm install mysql
+
+npm install express-myconnection
+
+npm install dotenv
+
+npm install express-validator
+
+npm install redis
